@@ -13,7 +13,7 @@ class Controller_Default extends Controller_Base
      * @param $a
      * @param $b
      */
-    public function action_index($a, $b)
+    public function action_index()
     {
         $i = '';
 
